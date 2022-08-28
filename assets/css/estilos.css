@@ -63,5 +63,13 @@ footer address:last-child {
 	margin-bottom: 0;
 }
 
+.grupo-radio {
+	width: 50%;
+	display: inline-block;
+}
 
-
+.grupo-select {
+	display: inline-block;
+	width: auto;
+	vertical-align: top;
+}
